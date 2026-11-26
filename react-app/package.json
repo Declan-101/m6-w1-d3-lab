@@ -1,0 +1,17 @@
+{
+  "name": "book-list-react-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "5.3.8",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "react-router-dom": "7.18.5",
+    "react-cookie": "^8.0.1",
+    "reactstrap": "9.2.3",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": { "start": "react-scripts start", "build": "react-scripts build" },
+  "proxy": "http://127.0.0.1:8081",
+  "browserslist": { "production": [">0.2%", "not dead", "not op_mini all"], "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"] }
+}
